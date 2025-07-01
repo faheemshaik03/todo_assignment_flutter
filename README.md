@@ -45,3 +45,22 @@ Faheem Shaik
 ##  Demo Video
 
  [Watch Demo Video](https://drive.google.com/file/d/1xWw-Kam7V_AOinoYFwWySCsC2yiswyUh/view?usp=sharing)
+
+
+## 🧠 Thought Process & Design Decisions
+
+This ToDoList app was designed with simplicity, performance, and usability in mind:
+
+- **State Management:** I chose **GetX** for efficient state handling and routing, which ensures fast performance and clean separation of UI and logic.
+- **Architecture:** The app follows the **MVVM (Model-View-ViewModel)** pattern to keep logic and UI separate for maintainability and scalability.
+- **Data Persistence:** I used **Hive** to store tasks locally, even when the app is closed or restarted.
+- **Notifications:** The app uses **flutter_local_notifications** to alert users about upcoming tasks.
+- **UI/UX:** Built with **Material Design** principles for a clean and intuitive interface.
+- **Features Covered:**
+  - Add, Edit, Delete Tasks
+  - Task Priority and Due Date
+  - Search and Sort
+  - Local Notifications
+  - Offline Data Storage
+
+This project showcases my understanding of Flutter, clean code practices, and building user-focused apps.
