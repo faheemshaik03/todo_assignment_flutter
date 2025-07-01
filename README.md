@@ -30,7 +30,11 @@ flutter pub get
 flutter run -d emulator-5554  # or your connected device
 
 
+
+
 ## 👨‍💻 Author
 
 Faheem Shaik  
 [GitHub](https://github.com/faheemshaik03)
+🔗 [Download APK](https://drive.google.com/file/d/1sJ9E6PNoyCVnYPVtya7CIeNcLcy-_d5q/view?usp=sharing)
+
