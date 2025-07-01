@@ -1,16 +1,36 @@
-# todo_assignment
+# 📝 ToDoList Flutter App
 
-A new Flutter project.
+A cross-platform ToDoList app built with Flutter and GetX for Quantum IT Innovation's assignment.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Add, edit, delete tasks
+- ✅ Set due dates and task priority (High, Medium, Low)
+- ✅ Local push notifications for reminders
+- ✅ Persistent storage using Hive (offline-safe)
+- ✅ Sort by priority, due date, or creation date
+- ✅ Search tasks by title or keyword
+- ✅ Material Design-compliant UI
+- ✅ MVVM architecture using GetX
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** & **Dart**
+- **GetX** (State Management & Routing)
+- **Hive** (Local NoSQL storage)
+- **flutter_local_notifications** (Push notifications)
+- **MVVM Architecture**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 How to Run
+
+```bash
+git clone https://github.com/faheemshaik03/todo_assignment_flutter.git
+cd todo_assignment_flutter
+flutter pub get
+flutter run -d emulator-5554  # or your connected device
+
+
+## 👨‍💻 Author
+
+Faheem Shaik  
+[GitHub](https://github.com/faheemshaik03)
